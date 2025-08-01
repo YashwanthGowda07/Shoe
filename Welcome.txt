@@ -1,0 +1,368 @@
+-*4 🛒 Welcome to our online store! 🛒 -*4
+👤 Enter your username: Yash
+🔑 Enter your password: Yash72
+🧑 Enter your name: Yash
+📍  Enter your address: Beng
+📱 Enter your phone number: 8762316123
+📧 Enter your email: yash@mail
+-*4 You can choose -*4
+1. Register
+2. Login
+3. Exit
+Enter your choice: 1
+User entering first time
+Create a account
+Enter your details
+👤 Enter your username: Yash
+🔑 Enter your password: Yash72
+🧑 Enter your name: Yash
+📱 Enter your phone number: 8762316123
+📍 Enter your address: Beng
+📧 Enter your email: yyash@mail
+✅ Account created successfully
+Please login to continue
+Login to yur account
+👤 Enter your username: Yash
+🔑 Enter your password: Yash72
+✅ Login successful
+Welcome Yash
+Welcome to the Shoe Store!
+You can choose to order shoes now.
+1. Order Shoes
+2. View Cart
+3. Update Details
+4. Logout
+Enter your choice: 1
+Available Shoe Brands and Models:
+1. Nike
+   - Air Max: ₹10000
+   - Air Force 1: ₹9000
+   - Air Jordan: ₹12000
+2. Adidas
+   - Ultraboost: ₹11000
+   - NMD: ₹9500
+   - Superstar: ₹8000
+3. Puma
+   - RS-X: ₹8500
+   - Future Rider: ₹8000
+   - Clyde: ₹7500
+4. Reebok
+   - Classic Leather: ₹7000
+   - Club C: ₹6500
+   - Zig Kinetica: ₹9000
+5. Under Armour
+   - HOVR Phantom: ₹12000
+   - Charged Impulse: ₹10000
+   - Micro G Pursuit: ₹8000
+6. Campus
+   - Campus: ₹6000
+   - Superstar: ₹7000
+   - Gazelle: ₹6500
+7. Bata
+   - Bata Casual: ₹5000
+   - Bata Formal: ₹6000
+   - Bata Sports: ₹5500
+8. Woodland
+   - Woodland Hiking: ₹8000
+   - Woodland Casual: ₹7000
+   - Woodland Formal: ₹7500
+9. Sparx
+   - Sparx Sports: ₹4000
+   - Sparx Casual: ₹3500
+   - Sparx Formal: ₹3000
+10. Red Tape
+   - Red Tape Casual: ₹6000
+   - Red Tape Formal: ₹7000
+   - Red Tape Sports: ₹6500
+11. Fila
+   - Fila Disruptor: ₹8000
+   - Fila Ray: ₹7500
+   - Fila Original: ₹7000
+12. ASICS
+   - ASICS Gel-Kayano: ₹12000
+   - ASICS Gel-Nimbus: ₹11000
+   - ASICS Gel-Quantum: ₹10000
+13. New Balance
+   - New Balance 990: ₹13000
+   - New Balance 574: ₹12000
+   - New Balance Fresh Foam: ₹11000
+14. Skechers
+   - Skechers Go Walk: ₹8000
+   - Skechers D'Lites: ₹7500
+   - Skechers Flex Appeal: ₹7000
+15. Converse
+   - Converse Chuck Taylor: ₹5000
+   - Converse One Star: ₹5500
+   - Converse All Star: ₹6000
+16. Vans
+   - Vans Old Skool: ₹6000
+   - Vans Authentic: ₹5500
+   - Vans Slip-On: ₹5000
+17. Hush Puppies
+   - Hush Puppies Formal: ₹7000
+   - Hush Puppies Casual: ₹6500
+   - Hush Puppies Sports: ₹6000
+18. Clarks
+   - Clarks Desert Boot: ₹8000
+   - Clarks Wallabee: ₹7500
+   - Clarks Trigenic: ₹7000
+19. Timberland
+   - Timberland Classic 6-Inch: ₹12000
+   - Timberland Euro Hiker: ₹11000
+   - Timberland Chukka: ₹10000
+20. Dr. Martens
+   - Dr. Martens 1460: ₹13000
+   - Dr. Martens 1461: ₹12000
+   - Dr. Martens Pascal: ₹11000
+-*4 👟 Welcome to the Shoe Store! 👟 -*4
+Available Shoe Brands and Models:
+1. Nike
+   - Air Max: ₹10000
+   - Air Force 1: ₹9000
+   - Air Jordan: ₹12000
+2. Adidas
+   - Ultraboost: ₹11000
+   - NMD: ₹9500
+   - Superstar: ₹8000
+3. Puma
+   - RS-X: ₹8500
+   - Future Rider: ₹8000
+   - Clyde: ₹7500
+4. Reebok
+   - Classic Leather: ₹7000
+   - Club C: ₹6500
+   - Zig Kinetica: ₹9000
+5. Under Armour
+   - HOVR Phantom: ₹12000
+   - Charged Impulse: ₹10000
+   - Micro G Pursuit: ₹8000
+6. Campus
+   - Campus: ₹6000
+   - Superstar: ₹7000
+   - Gazelle: ₹6500
+7. Bata
+   - Bata Casual: ₹5000
+   - Bata Formal: ₹6000
+   - Bata Sports: ₹5500
+8. Woodland
+   - Woodland Hiking: ₹8000
+   - Woodland Casual: ₹7000
+   - Woodland Formal: ₹7500
+9. Sparx
+   - Sparx Sports: ₹4000
+   - Sparx Casual: ₹3500
+   - Sparx Formal: ₹3000
+10. Red Tape
+   - Red Tape Casual: ₹6000
+   - Red Tape Formal: ₹7000
+   - Red Tape Sports: ₹6500
+11. Fila
+   - Fila Disruptor: ₹8000
+   - Fila Ray: ₹7500
+   - Fila Original: ₹7000
+12. ASICS
+   - ASICS Gel-Kayano: ₹12000
+   - ASICS Gel-Nimbus: ₹11000
+   - ASICS Gel-Quantum: ₹10000
+13. New Balance
+   - New Balance 990: ₹13000
+   - New Balance 574: ₹12000
+   - New Balance Fresh Foam: ₹11000
+14. Skechers
+   - Skechers Go Walk: ₹8000
+   - Skechers D'Lites: ₹7500
+   - Skechers Flex Appeal: ₹7000
+15. Converse
+   - Converse Chuck Taylor: ₹5000
+   - Converse One Star: ₹5500
+   - Converse All Star: ₹6000
+16. Vans
+   - Vans Old Skool: ₹6000
+   - Vans Authentic: ₹5500
+   - Vans Slip-On: ₹5000
+17. Hush Puppies
+   - Hush Puppies Formal: ₹7000
+   - Hush Puppies Casual: ₹6500
+   - Hush Puppies Sports: ₹6000
+18. Clarks
+   - Clarks Desert Boot: ₹8000
+   - Clarks Wallabee: ₹7500
+   - Clarks Trigenic: ₹7000
+19. Timberland
+   - Timberland Classic 6-Inch: ₹12000
+   - Timberland Euro Hiker: ₹11000
+   - Timberland Chukka: ₹10000
+20. Dr. Martens
+   - Dr. Martens 1460: ₹13000
+   - Dr. Martens 1461: ₹12000
+   - Dr. Martens Pascal: ₹11000
+Please select a brand by entering the corresponding number:
+1
+You have selected Nike
+Please select a model:
+Air Max: ₹10000
+Air Force 1: ₹9000
+Air Jordan: ₹12000
+Enter the model name: Air Jordan
+You have selected Air Jordan priced at ₹12000
+Please select a size from the following options:
+Available sizes: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+Enter size: 8
+Enter quantity: 1
+You have selected size 8 and quantity 1
+Adding to cart...
+Added to cart: {'Nike': {'model': 'Air Jordan', 'size': 8, 'quantity': 1, 'price': 12000}}
+Total price: ₹12000
+Do you want to confirm your order? (yes/no)
+no
+Do you want to continue shopping? (yes/no)
+yes
+Continuing shopping...
+Do you want to add more items to your cart? (yes/no)
+yes
+-*4 👟 Welcome to the Shoe Store! 👟 -*4
+Available Shoe Brands and Models:
+1. Nike
+   - Air Max: ₹10000
+   - Air Force 1: ₹9000
+   - Air Jordan: ₹12000
+2. Adidas
+   - Ultraboost: ₹11000
+   - NMD: ₹9500
+   - Superstar: ₹8000
+3. Puma
+   - RS-X: ₹8500
+   - Future Rider: ₹8000
+   - Clyde: ₹7500
+4. Reebok
+   - Classic Leather: ₹7000
+   - Club C: ₹6500
+   - Zig Kinetica: ₹9000
+5. Under Armour
+   - HOVR Phantom: ₹12000
+   - Charged Impulse: ₹10000
+   - Micro G Pursuit: ₹8000
+6. Campus
+   - Campus: ₹6000
+   - Superstar: ₹7000
+   - Gazelle: ₹6500
+7. Bata
+   - Bata Casual: ₹5000
+   - Bata Formal: ₹6000
+   - Bata Sports: ₹5500
+8. Woodland
+   - Woodland Hiking: ₹8000
+   - Woodland Casual: ₹7000
+   - Woodland Formal: ₹7500
+9. Sparx
+   - Sparx Sports: ₹4000
+   - Sparx Casual: ₹3500
+   - Sparx Formal: ₹3000
+10. Red Tape
+   - Red Tape Casual: ₹6000
+   - Red Tape Formal: ₹7000
+   - Red Tape Sports: ₹6500
+11. Fila
+   - Fila Disruptor: ₹8000
+   - Fila Ray: ₹7500
+   - Fila Original: ₹7000
+12. ASICS
+   - ASICS Gel-Kayano: ₹12000
+   - ASICS Gel-Nimbus: ₹11000
+   - ASICS Gel-Quantum: ₹10000
+13. New Balance
+   - New Balance 990: ₹13000
+   - New Balance 574: ₹12000
+   - New Balance Fresh Foam: ₹11000
+14. Skechers
+   - Skechers Go Walk: ₹8000
+   - Skechers D'Lites: ₹7500
+   - Skechers Flex Appeal: ₹7000
+15. Converse
+   - Converse Chuck Taylor: ₹5000
+   - Converse One Star: ₹5500
+   - Converse All Star: ₹6000
+16. Vans
+   - Vans Old Skool: ₹6000
+   - Vans Authentic: ₹5500
+   - Vans Slip-On: ₹5000
+17. Hush Puppies
+   - Hush Puppies Formal: ₹7000
+   - Hush Puppies Casual: ₹6500
+   - Hush Puppies Sports: ₹6000
+18. Clarks
+   - Clarks Desert Boot: ₹8000
+   - Clarks Wallabee: ₹7500
+   - Clarks Trigenic: ₹7000
+19. Timberland
+   - Timberland Classic 6-Inch: ₹12000
+   - Timberland Euro Hiker: ₹11000
+   - Timberland Chukka: ₹10000
+20. Dr. Martens
+   - Dr. Martens 1460: ₹13000
+   - Dr. Martens 1461: ₹12000
+   - Dr. Martens Pascal: ₹11000
+Please select a brand by entering the corresponding number:
+3
+You have selected Puma
+Please select a model:
+RS-X: ₹8500
+Future Rider: ₹8000
+Clyde: ₹7500
+Enter the model name: Clyde
+You have selected Clyde priced at ₹7500
+Please select a size from the following options:
+Available sizes: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+Enter size: 8
+Enter quantity: 2
+You have selected size 8 and quantity 2
+Adding to cart...
+Added to cart: {'Nike': {'model': 'Air Jordan', 'size': 8, 'quantity': 1, 'price': 12000}, 'Puma': {'model': 'Clyde', 'size': 8, 'quantity': 2, 'price': 7500}}
+Total price: ₹15000
+Do you want to confirm your order? (yes/no)
+yes
+Order confirmed. Total price: ₹15000
+Moving to selecting address...
+Please enter your address details:
+🏠 Address: Beng
+You have entered the address: Beng
+Do you have a discount code? (yes/no)
+no
+No discount code applied.
+You have entered for payment
+Total amount to be paid: ₹15000
+Do you want to view your cart? (yes/no)
+yes
+Your Cart:
+Brand: Nike, Model: Air Jordan, Size: 8, Quantity: 1, Price per item: ₹12000
+Brand: Puma, Model: Clyde, Size: 8, Quantity: 2, Price per item: ₹7500
+Total Price: ₹15000
+You have entered for payment
+Total amount to be paid: ₹15000
+Do you want to view your cart? (yes/no)
+no
+Please select a payment method:
+1. Credit/Debit Card
+2. UPI
+3. Net Banking
+Enter the number of your choice: 2
+You have selected UPI
+You have selected UPI payment
+Enter your UPI ID: 8762316123@upi
+UPI ID is valid.
+OTP sent to your registered mobile number.
+Your OTP is: 420745
+Enter the received OTP: 420745
+Payment Processing....
+✅ Payment Successful!
+Thank you for your purchase! Total amount paid: ₹15000
+Order Summary:
+Brand: Nike, Model: Air Jordan, Size: 8, Quantity: 1, Price per item: ₹12000
+Brand: Puma, Model: Clyde, Size: 8, Quantity: 2, Price per item: ₹7500
+💸 Total Price: ₹15000
+Your address details are:
+📍 Address: <bound method Shoe.address of <__main__.Shoe object at 0x00000271DE987380>>
+Thank you for shopping with us!
+You will receive an email confirmation shortly.
+We hope to see you again soon!
+Have a great day!
